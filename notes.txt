@@ -1,0 +1,6 @@
+1. demp ap
+2. get tmdp API key: https://api.themoviedb.org/3/movie/550?api_key=e66ff43ca856c900844efc8586df8f49
+3.create react app
+4. setup firebase: https://console.firebase.google.com/project/netflix-clone-166e2/settings/general/web:NTFkYzBiOGQtOGFiZi00MjBmLTkzNzAtMjAxNjU4M2U2NmI0
+5. get all movies
+https://www.youtube.com/watch?v=XtMThy8QKqU&t=488s 20:46
